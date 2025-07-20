@@ -6,7 +6,7 @@ This repository showcases simulation-based analysis of high-frequency systems us
 - **Transmission line and matching network design**
 - **Waveguide material estimation and antenna array radiation modeling**
 
-The work was developed as part of an advanced university course in RF/Microwave Engineering and combines analytical techniques, numerical methods, and visualization of electromagnetic behavior.
+This project was developed as part of the **High Frequency Devices** course at the **Aristotle University of Thessaloniki** (AUTH), School of Electrical & Computer Engineering.
 
 ---
 
@@ -78,8 +78,15 @@ high-frequency-circuits-and-devices/
 
 ---
 
-### 👤 Author
+## ✍️ Author
+
+**Panos Koutris**  
+Student at AUTh – School of Electrical & Computer Engineering
 
 ---
+
+## 📝 License
+
+Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 
