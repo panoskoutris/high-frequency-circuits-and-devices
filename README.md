@@ -82,7 +82,7 @@ high-frequency-circuits-and-devices/
 
 ## ✍️ Author
 
-**Panos Koutris**  
+**Panagiotis Koutris**  
 Student at AUTh – School of Electrical & Computer Engineering
 
 ---
