@@ -1,4 +1,4 @@
-# high-frequency-circuits-and-devices
+# High Frequency Circuits and Designs
 
 **High-frequency circuit and device modeling using MATLAB: impedance matching, waveguide material characterization, and antenna array simulations.**
 
@@ -60,6 +60,7 @@ high-frequency-circuits-and-devices/
 │   │   ├── plot_reflection_multi_stub.m
 │   │   ├── power_matching.m
 │   │   └── reflection_vs_frequency.m
+│   ├── specs.m
 │   └── report.pdf
 │
 ├── waveguides-antennas/
@@ -70,6 +71,7 @@ high-frequency-circuits-and-devices/
 │   │   ├── estimate_dielectric_constant.m
 │   │   ├── find_microstrip_resonance.m
 │   │   └── plot_array_radiation_patterns.m
+│   ├── specs.m
 │   └── report.pdf
 │
 └── README.md
