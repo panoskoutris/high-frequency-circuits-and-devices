@@ -10,11 +10,11 @@ This project was developed as part of the **High Frequency Devices** course at t
 
 ---
 
-## 📡 Part 1 — Transmission Lines & Matching Networks
+##  Part 1 — Transmission Lines & Matching Networks
 
 This section models high-frequency transmission line systems, focusing on impedance transformations, reflection coefficient behavior, and matching network optimization.
 
-### 🔧 Key Scripts
+###  Key Scripts
 
 | File | Description |
 |------|-------------|
@@ -25,15 +25,15 @@ This section models high-frequency transmission line systems, focusing on impeda
 | `get_average_reflection.m` | Computes the average |Γ| for use in optimization. |
 | `power_matching.m` | Power transfer analysis using matching network and reactive elements. |
 
-> ℹ️ Matching design was optimized using the Grey Wolf Optimizer (not included). Results and analysis appear in `report.pdf`.
+>  Matching design was optimized using the Grey Wolf Optimizer (not included). Results and analysis appear in `report.pdf`.
 
 ---
 
-## 📶 Part 2 — Waveguides & Antenna Arrays
+##  Part 2 — Waveguides & Antenna Arrays
 
 This section focuses on waveguide dielectric estimation and radiation modeling of antenna arrays using analytical and numerical methods.
 
-### 🔧 Key Scripts
+###  Key Scripts
 
 | File | Description |
 |------|-------------|
@@ -44,11 +44,11 @@ This section focuses on waveguide dielectric estimation and radiation modeling o
 | `double_stub_matching.m` | Models a double-stub tuner and calculates reflection coefficient. |
 | `find_microstrip_resonance.m` | Finds the resonant frequency of a microstrip resonator via numerical solving. |
 
-> 📄 Details and validation are presented in `report.pdf`.
+>  Details and validation are presented in `report.pdf`.
 
 ---
 
-### 📁 Repository Structure
+###  Repository Structure
 
 ```
 high-frequency-circuits-and-devices/
@@ -80,14 +80,14 @@ high-frequency-circuits-and-devices/
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Panagiotis Koutris**  
 Student at AUTh – School of Electrical & Computer Engineering
 
 ---
 
-## 📝 License
+##  License
 
 Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
